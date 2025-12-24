@@ -105,3 +105,8 @@ The project provides insights into *sales trends, customer behavior, and product
 ---
 
 ## 🖼️ Dashboard Previews
+
+Screenshots of both dashboards are available below for quick reference.
+
+- 🏠 [Home](PowerBI_Dashboard/Home.png)
+- 📊 [Best & Worst Sellers](PowerBI_Dashboard/Best_Worst_Sellers.png)
